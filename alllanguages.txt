@@ -7,3 +7,4 @@ swinomish
 Berber 
 Klingon
 Spanish
+Another language
