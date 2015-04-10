@@ -8,3 +8,5 @@ Berber
 Klingon
 Spanish
 Another language
+Finnish 
+Dothraki
